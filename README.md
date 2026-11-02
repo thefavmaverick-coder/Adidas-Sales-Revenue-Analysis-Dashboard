@@ -2,7 +2,7 @@
 
 An interactive **Power BI sales analytics dashboard** exploring Adidas sales performance across 2020–2021. The report brings together headline KPIs, monthly revenue trends, regional contribution, retailer performance, product-level sales and operating profit, and sales-channel mix.
 
-![Adidas Sales & Revenue Performance Dashboard](assets/Adidas-Sales-Analysis-Dashboard.png)
+![Adidas Sales & Revenue Performance Dashboard](Adidas-Sales-Analysis-Dashboard.png)
 
 
 ## Project Overview
